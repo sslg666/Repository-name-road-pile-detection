@@ -9,3 +9,5 @@ services:
         value: "false"
       - key: PYTHON_VERSION
         value: "3.11.8"
+      - key: PIP_PREFER_BINARY
+        value: "1"
